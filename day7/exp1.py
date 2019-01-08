@@ -1,0 +1,12 @@
+file = open("test.txt","r")
+str = file.read(4)
+print(str)
+str = file.read(4)
+print(str)
+file.close()
+file = open("test.txt","r")
+str = file.read(2)
+while str!="":
+    print(str)
+    str = file.read(2)
+file.close()

@@ -1,0 +1,14 @@
+cat
+dog
+rat
+bed
+sit
+let
+die
+hue
+pot
+lot
+hot
+not
+one
+two
